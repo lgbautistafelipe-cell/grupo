@@ -1,5 +1,4 @@
 {
   "buildCommand": "bun run build",
-  "outputDirectory": ".vinxi/build",
   "framework": "tanstack-start"
 }
